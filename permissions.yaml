@@ -1,0 +1,13 @@
+userDefinedPermissions:
+  - type: PHOTO_LIBRARY
+    message:
+      translationIdentifier:
+        key: puyu87v0
+      textValue:
+        inputValue: permita a library
+  - type: CAMERA
+    message:
+      translationIdentifier:
+        key: 5alf9vzp
+      textValue:
+        inputValue: Permita uso da camera!

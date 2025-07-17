@@ -1,0 +1,9 @@
+pubspecDependencies:
+  - name: image_picker
+    version: ^1.0.4
+  - name: screenshot
+    version: ^2.1.0
+  - name: pdf
+    version: ^3.10.4
+  - name: permission_handler
+    version: 12.0.0+1
